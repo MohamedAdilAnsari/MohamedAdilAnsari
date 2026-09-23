@@ -101,8 +101,10 @@ Mission:
 ## 🌐 Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/mohamed-adil-ansari-130872276/>
-    <img src="https://img.shields.io/badge/LinkedIn-MohamedAdillAnsari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+
+  <a href="https://www.linkedin.com/in/mohamed-adil-ansari-130872276/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Adil%20Ansari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -110,8 +112,8 @@ Mission:
 
 <div align="center">
 
-### BUILD • LEARN • LAUNCH
+### BUILD • LEARN • CREATE 🚀
 
-*"Turning ideas into products, one commit at a time."*
+*"Turning ideas into real-world products, one commit at a time."*
 
 </div>
