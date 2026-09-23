@@ -77,7 +77,7 @@ Mission:
 ### Cloud & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux" />
 </p>
 
 ### Tools
