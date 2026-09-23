@@ -102,7 +102,7 @@ Mission:
 
 <p>
   <a href="https://www.linkedin.com/in/mohamed-adil-ansari-130872276/>
-    <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Adill%20Ansari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-MohamedAdillAnsari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
