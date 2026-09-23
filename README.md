@@ -101,7 +101,7 @@ Mission:
 ## 🌐 Connect
 
 <p>
-  <a href="https://linkedin.com/in/sri-raghul-krishna-arivalagan">
+  <a href="www.linkedin.com/in/mohamed-adilansari-130872276/">
     <img src="https://img.shields.io/badge/LinkedIn-Sri%20Raghul%20Krishna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
