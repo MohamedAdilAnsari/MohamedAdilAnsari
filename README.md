@@ -49,3 +49,69 @@ Building:
 Mission:
   Build scalable software and AI-powered products
   that solve real-world problems.
+
+```
+
+---
+
+## ⚡ Technology Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,mysql" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase" />
+</p>
+
+### Cloud & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
+
+---
+
+## 🚀 Current Focus
+
+* Building scalable full-stack applications
+* Exploring AI-powered software
+* Learning modern cloud infrastructure
+* Developing startup-ready products
+* Contributing to open-source projects
+
+---
+
+## 🌐 Connect
+
+<p>
+  <a href="https://linkedin.com/in/sri-raghul-krishna-arivalagan">
+    <img src="https://img.shields.io/badge/LinkedIn-Sri%20Raghul%20Krishna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### BUILD • LEARN • LAUNCH
+
+*"Turning ideas into products, one commit at a time."*
+
+</div>
