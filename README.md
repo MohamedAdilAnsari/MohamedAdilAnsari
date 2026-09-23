@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077ff,100:00c6ff&height=200&section=header&text=Mohamed%20Adil%20Ansari&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=Mohamed+Adil+Ansari;Java+Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React;AI+%26+LLM+Enthusiast;Building+Real-World+Products+%F0%9F%9A%80" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React;AI+%26+LLM+Enthusiast;Building+Real-World+Products;Always+Learning+%26+Building+%F0%9F%9A%80" />
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="70%"/>
 
 </div>
 
@@ -13,7 +15,7 @@
 ```text
 Name: Mohamed Adil Ansari
 GitHub: MohamedAdilAnsari
-Role: Full-Stack Developer
+Role: Java Full-Stack Developer
 
 Education:
   B.E Computer Science & Engineering
@@ -21,16 +23,19 @@ Education:
 Focus Areas:
   - Full-Stack Development
   - Java & Spring Boot
+  - React.js
+  - Backend Development
   - Artificial Intelligence
-  - Backend Engineering
   - Cloud Computing
 
 Currently Learning:
-  - Java
+  - Advanced Java
   - Spring Boot
   - React.js
+  - REST APIs
   - AI & LLM Engineering
   - RAG
+  - n8n Automation
   - AWS
 
 Building:
@@ -39,4 +44,5 @@ Building:
   - Developer Portfolio
 
 Mission:
-  Build scalable products that solve real-world problems.
+  Build scalable software and AI-powered products
+  that solve real-world problems.
