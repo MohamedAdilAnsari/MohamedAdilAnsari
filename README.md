@@ -1,6 +1,6 @@
 <div align="center">
 
-# MOHAMED ADIL ANSARI
+# MOHAMED ADIL ANSARI S
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Java+Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React;AI+%26+LLM+Enthusiast;Building+Real-World+Products;Always+Learning+%26+Building+%F0%9F%9A%80" />
 
